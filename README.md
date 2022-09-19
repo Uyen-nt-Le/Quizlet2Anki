@@ -2,7 +2,7 @@
 ###### Disclaimer
 *This program is written to make Anki **basic** deck cards only.*
 
-*It will convert export files from Quizlet and make it easier to import to Anki*
+*It will convert export files from Quizlet and make it easier to import to Anki.*
 
 *Images not included.*
 

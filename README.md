@@ -34,6 +34,7 @@ Use PyCharm to run this program.
      - [x] Allow HTML in fields
 13. Click **Import**.
 14. Make sure the number of cards uploaded match what you're uploading.
+     - Duplicated cards from other decks will upload/update/be ignored depending on the options you choose.
 15. Done! :>
 
 

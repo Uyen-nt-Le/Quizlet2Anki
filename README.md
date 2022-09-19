@@ -11,12 +11,12 @@ Use PyCharm to run this program.
 3. For "Between term and definition", choose custom and type (backtick): **`**
      - Or whichever symbol that most likely won't show up in the flashcards.
 4. For "Betwen rows", choose custom and type: **\n#**
-5. Copy and paste the text to the quizletexport.txt file.
+5. Copy and paste the text to the **quizletexport.txt** file.
 
 ###### PyCharm
 6. Open PyCharm and make sure main.py is selected.
 7. CLick the run button.
-8. ankiexport.txt will update when program runs successfully.
+8. **ankiexport.txt** will update when program runs successfully.
 
 ###### Importing to Anki
 9. Open Anki.
@@ -26,7 +26,7 @@ Use PyCharm to run this program.
      - Type = Basic
      - Deck = **Select your deck**
      - **(important)** Fields separated by: `
-     - [x] Allow HTML in fields
+     - **(important)** [x] Allow HTML in fields
 13. Click **Import**.
 14. Make sure the number of cards uploaded match what you're uploading.
 15. Done! :>

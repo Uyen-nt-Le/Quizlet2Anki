@@ -21,12 +21,12 @@ Use PyCharm to run this program.
 ###### PyCharm
 6. Open PyCharm and make sure main.py is selected.
 7. CLick the run button.
-8. **ankiexport.txt** will update when program runs successfully.
+8. **ankiimport.txt** will update when program runs successfully.
 
 ###### Importing to Anki
 9. Open Anki.
 10. Select **Import File**.
-11. Select **ankiexport.txt**.
+11. Select **ankiimport.txt**.
 12. Import options: 
      - Type = Basic
      - Deck = **Select your deck**

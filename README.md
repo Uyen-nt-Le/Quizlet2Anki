@@ -8,9 +8,9 @@ Use PyCharm to run this program.
 ###### Exporting from Quizlet
 1. Choose your flashcards on Quizlet.
 2. Click on the 3 dots (...) and select **export**.
-3. For "Between term and definition", choose custom and type **`** (backtick).
+3. For "Between term and definition", choose custom and type (backtick): **`**
      - Or whichever symbol that most likely won't show up in the flashcards.
-4. For "Betwen rows", choose custom and type **\n#**
+4. For "Betwen rows", choose custom and type: **\n#**
 5. Copy and paste the text to the quizletexport.txt file.
 
 ###### PyCharm

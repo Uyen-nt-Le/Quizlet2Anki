@@ -20,7 +20,7 @@ Use PyCharm to run this program.
 
 ###### PyCharm
 6. Open PyCharm and make sure main.py is selected.
-7. CLick the run button.
+7. Click the run button.
 8. **ankiimport.txt** will update when program runs successfully.
 
 ###### Importing to Anki

@@ -26,7 +26,7 @@ Use PyCharm to run this program.
      - Type = Basic
      - Deck = **Select your deck**
      - Fields separated by: `
-          - [x] Allow HTML in fields
+     - [x] Allow HTML in fields
 13. Click **Import**.
 14. Make sure the number of cards uploaded match what you're uploading.
 15. Done! :>

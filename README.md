@@ -1,7 +1,11 @@
 # Quizlet2Anki
 ###### Disclaimer
-*This program is written to make Anki basic deck cards only.*
+*This program is written to make Anki **basic** deck cards only.*
+
+*It will convert export files from Quizlet and make it easier to import to Anki*
+
 *Images not included.*
+
 *Written for a friend not for the public. Use at your own risk.*
 ## Instructions
 Use PyCharm to run this program.

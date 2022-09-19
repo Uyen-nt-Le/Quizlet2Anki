@@ -22,11 +22,11 @@ Use PyCharm to run this program.
 9. Open Anki.
 10. Select **Import File**.
 11. Select **ankiexport.txt**.
-12. Import options:
+12. Import options: 
      - Type = Basic
      - Deck = **Select your deck**
-     - **(important)** Fields separated by: `
-     - [x] Allow HTML in fields
+     - Fields separated by: `
+          - [x] Allow HTML in fields
 13. Click **Import**.
 14. Make sure the number of cards uploaded match what you're uploading.
 15. Done! :>

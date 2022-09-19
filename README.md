@@ -10,9 +10,6 @@
 ## Instructions
 Use PyCharm to run this program.
 
-C++ Version included. Compiled with g++ using WSL Ubuntu 20.04.
-
-cpp file not meant for PyCharm.
 ###### Exporting from Quizlet
 1. Choose your flashcards on Quizlet.
 2. Click on the 3 dots (...) and select **export**.
@@ -38,3 +35,9 @@ cpp file not meant for PyCharm.
 13. Click **Import**.
 14. Make sure the number of cards uploaded match what you're uploading.
 15. Done! :>
+
+
+###### NOTES
+C++ Version included. Compiled with g++ using WSL Ubuntu 20.04.
+
+cpp file not meant for PyCharm.
